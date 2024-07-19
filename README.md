@@ -1,6 +1,7 @@
 # markdown_0719
 
 ### 12. 이미지 링크
+![로고](https://github.com/MMSSJJjj/markdown_0719/blob/main/logo.png "수업자료 LINK")
 
 ### 11. 수학 수식: LaTex구문
 $  x^2 + y^2 = z^2  $
